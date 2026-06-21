@@ -1,0 +1,29 @@
+{
+  "api": [
+    "GetGameObject",
+    "GetGameObjectId",
+    "IsValid",
+    "AddComponent",
+    "RemoveComponent",
+    "GetComponent",
+    "PushCustomEvent",
+    "PushCustomEventSync",
+    "AddCustomEvent",
+    "RemoveCustomEvent",
+    "AddTriggerEvent",
+    "RemoveTriggerEvent",
+    "PushEvent",
+    "PushEventSync",
+    "AddEvent",
+    "RemoveEvent",
+    "DoTaskInTime",
+    "DoPeriodicTask",
+    "ClearAllTask",
+    "SetEventIsEnable",
+    "ThreadWork",
+    "ThreadWait",
+    "PushCloudServerMsg",
+    "AddCloudSeverEvent",
+    "RemoveCloudSeverEvent"
+  ]
+}
